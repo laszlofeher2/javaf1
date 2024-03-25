@@ -1,2 +1,7 @@
 # javaf1
-Java első feladat
+
+Ez egy beadandó feladat
+
+## Megvalósítás
+A java io csomagot használtam a feladathoz
+> java.io elérése:
